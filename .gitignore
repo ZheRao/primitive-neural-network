@@ -1,0 +1,17 @@
+# secrets / local configs
+.env
+*.env
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.venv/
+poetry*
+.python-version
